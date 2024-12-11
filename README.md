@@ -84,9 +84,6 @@ The model is evaluated using:
 ## Deployment
 The trained model is saved as `best_model.keras` and is ready for deployment using TensorFlow Serving or a web framework like Flask. Refer to the `deployment/` folder for instructions.
 
-## Contributors
-- **Srideepanraj S.** - Model Development, Feature Engineering, and Deployment.
-- **Batch Member** - Web Application Deployment and Documentation.
 
 ---
 
